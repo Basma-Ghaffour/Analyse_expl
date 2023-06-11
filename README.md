@@ -3,10 +3,10 @@
 L'objectif de cette étude est de répondre à notre problématique qui sera évoquée ulterieurement avec des méthodes d'analyse de données exploratoire.
 L'étude a été faite à partir de bases de données provenant du [Coffee Quality Institute](https://github.com/jldbc/coffee-quality-database/find/master).
 
-problématique:
+problématique :
 La qualité du café dépend-elle de sa provenance ?
 
-Afin de répondre à cette problématique, nous avons réaliser:
+Afin de répondre à cette problématique, nous avons réaliser :
 
 - Une bref analyse descriptive.
 - Une création de deux nouvelles variables afin de répondre de manière spécifique à la problématique.
@@ -17,7 +17,7 @@ Afin de répondre à cette problématique, nous avons réaliser:
 Le recours à cette méthode nous a permis de visualiser et d'explorer les relations entre les différentes catégories des variables catégorielles qui ont été évoquées précédemment.
 - Une analyse des correspondance multiples.
 
-Afin d'approfondir nos recherches sur la relation entre la qualité du café et son origine. Cela nous a permis d'identifier et de visualiser des relations avec des variables supplémentaires (portant sur des caractéristiques propres à la région d'origine des observations). Cela nous a permis d'apporter une explication supplémentaire aux résultats précédents.
+Afin d'approfondir nos recherches sur la relation entre la qualité du café et son origine. Cette méthode nous a conduit à 'identifier et visualiser des relations avec des variables supplémentaires (portant sur des caractéristiques propres à la région d'origine des observations). Cela nous a permis d'apporter une explication supplémentaire aux résultats précédents.
 - Une classification non supervisé.
 
 L'utilisation de cette méthode nous a permis de voir s'il est possible de segmenter notre population afin d'explorer les caractéristiques des clusters. L'utilisation de cette méthode nous a apporté un complément aux résultats des analyses évoqué précédemment.
