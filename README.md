@@ -8,8 +8,7 @@ La qualité du café dépend-elle de sa provenance ?
 
 Afin de répondre à cette problématique, nous avons réaliser:
 
-* Une bref analyse descriptive.
-- 
+- Une bref analyse descriptive.
 - Une création de deux nouvelles variables afin de répondre de manière spécifique à la problématique.
     - Une variable catégorielle nous indiquant la région de provenance de l'observation.
     - Une variable catégorielle contenant l'intervalle d'un indice de qualité du café auquel appartient l'observation.
