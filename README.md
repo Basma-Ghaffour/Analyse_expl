@@ -13,6 +13,7 @@ Afin de répondre à cette problématique, nous avons réaliser:
     - Une variable catégorielle nous indiquant la région de provenance de l'observation.
     - Une variable catégorielle contenant l'intervalle d'un indice de qualité du café auquel appartient l'observation.
 - Une analyse factorielle des correspondences.
+
 Cela nous a permis de visualiser et d'explorer les relations entre les différentes catégories des variables catégorielles qui ont été évoqué précédemment.
 - Une analyse des correspondance multiples.
 - Une classification non supervisé.
