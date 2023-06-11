@@ -2,7 +2,7 @@
 
 Etude fait a partir de bases de données provenant du [Coffee Quality Institute](https://github.com/jldbc/coffee-quality-database/find/master).
 
-## Problématique:
+\underline{problématique:}
 
 La qualité du café dépend-elle de sa provenance ?
 
