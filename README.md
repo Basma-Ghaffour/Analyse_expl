@@ -4,7 +4,7 @@ L'objectif de cette étude est de répondre à notre problématique qui sera év
 L'étude a été faite à partir de bases de données provenant du [Coffee Quality Institute](https://github.com/jldbc/coffee-quality-database/find/master).
 
 problématique:
-La qualité du café dépend-elle de sa provenance ?
+La qualité du café dépend-elle de sa provenance ?d
 
 Afin de répondre à cette problématique, nous avons réaliser:
 
