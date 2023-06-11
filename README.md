@@ -1,21 +1,21 @@
 # Analyse de donées exploratoire
 
-Etude fait a partir de bases de données provenant du [Coffee Quality Institute](https://github.com/jldbc/coffee-quality-database/find/master).
+L'objectif de cette étude est de répondre à notre problématique qui sera évoquée ulterieurement avec des méthodes d'analyse de données exploratoire.
+L'étude a été faite à partir de bases de données provenant du [Coffee Quality Institute](https://github.com/jldbc/coffee-quality-database/find/master).
 
-\underline{problématique:}
-
+problématique:
 La qualité du café dépend-elle de sa provenance ?
 
+Afin de répondre à cette problématique, nous avons réaliser:
 
-- créations de deux nouvelle variables pour répondre de manière spécifique à la problématique.
-    - une variable catégorielle nous indiqueant la région de provenence de l'observation parmis 7 région.
-    - une variable catégorielle contenant l'intervalle d'un indice de qualité du café auquel appartient l'observation. ( intervalle crée de facon à ce que dans chacun des 6 intervalles possible ont ait la même proportion d'observation).
+- Une bref analyse descriptive.
+- Une création de deux nouvelles variables afin de répondre de manière spécifique à la problématique.
+    - Une variable catégorielle nous indiquant la région de provenance de l'observation.
+    - Une variable catégorielle contenant l'intervalle d'un indice de qualité du café auquel appartient l'observation.
 
-- réalisation d'une analyse factorielle des correspondences e
-d'étudier et visualisé les relations entre les deux catégorie des variable crée.
+- Une analyse factorielle des correspondences.
+-
+- Une analyse des correspondance multiples.
 
-- réalisation d'une analyse des correspondance multiples
-nous permis d'étudier la relation avec des varaible supplémentaire qui pourrai explquer nos résultats précédent
-
-- réalisation d'une classification non supervisé
+- Une classification non supervisé.
 
