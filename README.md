@@ -14,13 +14,10 @@ Afin de répondre à cette problématique, nous avons réaliser:
     - Une variable catégorielle contenant l'intervalle d'un indice de qualité du café auquel appartient l'observation.
  
 - Une analyse factorielle des correspondences.
-
-Le recours de cette méthode nous a permis de visualiser et d'explorer les relations entre les différentes catégories des variables catégorielles qui ont été évoqué précédement.
+Le recours à cette méthode nous a permis de visualiser et d'explorer les relations entre les différentes catégories des variables catégorielles qui ont été évoquées précédemment.
 
 - Une analyse des correspondance multiples.
-
-Afin d'apprfondir nos recherches sur la relation entre la qualité du café et son origine. Cela nous a permis d'identifier et de visualiser des relations avec des variables supplémentaires (portant sur des caractéristiques propre à la région d'origine des observations). Cela nous a permis d'apporter une explication supplémentaire aux résultats précédents.
+Afin d'approfondir nos recherches sur la relation entre la qualité du café et son origine. Cela nous a permis d'identifier et de visualiser des relations avec des variables supplémentaires (portant sur des caractéristiques propres à la région d'origine des observations). Cela nous a permis d'apporter une explication supplémentaire aux résultats précédents.
 
 - Une classification non supervisé.
-
-Pour voir s'il est possible de segmenter notre population et d'explorer les caractéristiques des clusters. L'uitilisation de cette méthode nous a permis d'apporter un complément aux résultats des analyses évoquer précédemment.
+L'utilisation de cette méthode nous a permis de voir s'il est possible de segmenter notre population afin d'explorer les caractéristiques des clusters. L'utilisation de cette méthode nous a apporté un complément aux résultats des analyses évoqué précédemment.
