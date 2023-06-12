@@ -1,6 +1,6 @@
 # Projet Analyse de donées exploratoire
 
-L'objectif de cette étude est de répondre à notre problématique qui sera évoquée ulterieurement avec des méthodes d'analyse de données exploratoire.
+L'objectif de cette étude est de répondre à une problématique évoquée ultérieurement avec des méthodes d'analyse de données exploratoire.
 L'étude a été faite à partir de bases de données provenant du [Coffee Quality Institute](https://github.com/jldbc/coffee-quality-database/find/master).
 
 problématique :
