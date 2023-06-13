@@ -17,7 +17,7 @@ Afin de répondre à cette problématique, nous avons réaliser :
 Le recours à cette méthode nous a permis de visualiser et d'explorer les relations entre les différentes catégories des variables qui ont été évoquées précédemment.
 - Une analyse des correspondance multiples.
 
-Afin d'approfondir nos recherches sur la relation entre la qualité du café et son origine. Cette méthode nous a conduit à identifier et à visualiser des relations avec des variables supplémentaires (portant sur des caractéristiques propres à la région d'origine des observations). Cela nous a permis d'apporter une explication supplémentaire aux résultats précédents.
+Afin d'approfondir nos recherches sur la relation entre la qualité du café et son origine. Cette méthode nous a conduit à identifier et à visualiser des relations avec des variables supplémentaires (portant sur des caractéristiques propres à la région d'origine des observations). 
 - Une classification non supervisé.
 
 L'utilisation de cette méthode nous a permis de voir s'il est possible de segmenter notre population afin d'explorer leurs caractéristiques.
